@@ -730,6 +730,7 @@ body {
     display: block;
     z-index: 11;
     top: 13px;
+    cursor: pointer;
   }
   .header__burger::before {
     top: 0;
